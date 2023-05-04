@@ -1,4 +1,4 @@
-# Python ![python](https://icons8.com/icon/Rc0Xn5AtE8kX/python)
+# Python ![python](https://icons8.com/icon/Rc0Xn5AtE8kX/python.svg)
 
 ## Description
 This repository contains Python exercises and projects that I have solved and implemented.
